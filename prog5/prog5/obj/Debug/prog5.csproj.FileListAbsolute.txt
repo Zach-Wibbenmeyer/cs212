@@ -1,0 +1,6 @@
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog5\prog5\bin\Debug\prog5.exe.config
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog5\prog5\obj\Debug\prog5.csprojResolveAssemblyReference.cache
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog5\prog5\bin\Debug\prog5.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog5\prog5\bin\Debug\prog5.pdb
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog5\prog5\obj\Debug\prog5.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog5\prog5\obj\Debug\prog5.pdb

@@ -1,0 +1,16 @@
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\bin\Debug\prog2.exe.config
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\bin\Debug\prog2.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\bin\Debug\prog2.pdb
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\obj\Debug\prog2.csprojResolveAssemblyReference.cache
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\obj\Debug\MainWindow.baml
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\obj\Debug\MainWindow.g.cs
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\obj\Debug\App.g.cs
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\obj\Debug\prog2_MarkupCompile.cache
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\obj\Debug\prog2.g.resources
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\obj\Debug\prog2.Properties.Resources.resources
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\obj\Debug\prog2.csproj.GenerateResource.Cache
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\obj\Debug\prog2.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\prog2\obj\Debug\prog2.pdb
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\bin\Debug\prog2.exe.config
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\obj\Debug\prog2.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog2\prog2\obj\Debug\prog2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog4\prog4\bin\Debug\prog4.exe.config
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog4\prog4\bin\Debug\prog4.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog4\prog4\bin\Debug\prog4.pdb
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog4\prog4\obj\Debug\prog4.csprojResolveAssemblyReference.cache
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog4\prog4\obj\Debug\prog4.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog4\prog4\obj\Debug\prog4.pdb
